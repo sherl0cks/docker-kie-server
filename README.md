@@ -9,3 +9,6 @@ These are not for production usage, just to get you up and running.
 ## Default account
 user: jboss
 pass: bpmsuite1!
+
+## Deploying a KIE Container
+checkout [the test script](test/createKieContainer.sh)
