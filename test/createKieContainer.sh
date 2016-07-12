@@ -1,0 +1,1 @@
+curl -H "Authorization: Basic amJvc3M6YnBtc3VpdGUxIQ==" -H "Content-Type: application/xml;" http://localhost:32779/kie-server/services/rest/server/containers/fsi-blue --upload-file body.xml

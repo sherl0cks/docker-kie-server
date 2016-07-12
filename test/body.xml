@@ -1,0 +1,7 @@
+<kie-container container-id="fsi-blue">
+  <release-id>
+    <artifact-id>account-opening</artifact-id> 
+    <group-id>client-onboarding</group-id>
+    <version>1.0.1.2-13</version> 
+  </release-id> 
+</kie-container>
