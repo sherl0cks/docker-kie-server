@@ -5,3 +5,7 @@ Extends [docker-bpm](https://github.com/sherl0cks/docker-bpms). Not ideal in des
 These are not for production usage, just to get you up and running.
 
 [Docker Hub page](https://hub.docker.com/r/sherl0cks/docker-kie-server)
+
+## Default account
+user: jboss
+pass: bpmsuite1!
