@@ -1,1 +1,1 @@
-curl -H "Authorization: Basic amJvc3M6YnBtc3VpdGUxIQ==" -H "Content-Type: application/xml;" http://localhost:32779/kie-server/services/rest/server/containers/fsi-blue --upload-file body.xml
+curl -H "Authorization: Basic amJvc3M6YnBtc3VpdGUxIQ==" -H "Content-Type: application/xml;" http://kie-server-fsi-knowledge.apps.env1.fsi.innovation.redhat.com/kie-server/services/rest/server/containers/fsi-blue --upload-file body.xml
